@@ -1,0 +1,4 @@
+#Settings File for VOICE_ID
+TRACKS::5
+INTERVAL::20
+
